@@ -327,7 +327,7 @@ max-width: 1000px;
     justify-content: center;
    
 }
-.projectgrid a{
+.projectgrid span{
     display: inline-block;
     border-radius: 8px;
     border: 1px solid #fff;
