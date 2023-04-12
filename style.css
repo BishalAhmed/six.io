@@ -370,10 +370,12 @@ a{
 }
 footer{
     background-image: url(img/ownn\ Medium.jpeg);
-    width: 40%;
+    width: 100%;
     background-position: center;
     background-size: cover;
     margin: auto;
+    display: block;
+    height: 200px;
 }
 @media screen and (max-width:1220px) {
     .projectgrid{
