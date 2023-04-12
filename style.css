@@ -332,12 +332,17 @@ max-width: 1000px;
     border-radius: 8px;
     border: 1px solid #fff;
     background: rgba(255, 255, 255, 0.17);
-
+    transition: 0.2s ease;
     box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
     backdrop-filter: blur(3.8px);
     -webkit-backdrop-filter: blur(3.8px);
     border: 1px solid rgba(255, 255, 255, 0.08);
     
+}
+.projectgrid span:hover{
+    transform: scale(1.05);
+    border: 1px solid #Fff;
+
 }
 /* .projectgrid a{
 
