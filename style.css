@@ -368,6 +368,13 @@ a{
    background-size: cover;
    background-repeat: no-repeat;
 }
+footer{
+    background-image: url(img/ownn\ Medium.jpeg);
+    width: 40%;
+    background-position: center;
+    background-size: cover;
+    margin: auto;
+}
 @media screen and (max-width:1220px) {
     .projectgrid{
         font-size: 18px;
